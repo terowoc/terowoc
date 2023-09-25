@@ -9,5 +9,3 @@
 
 ------------
 <a href="https://azimboev.uz">Website</a> |  <a href="https://t.me/terowoc">Telegram</a> | <a href="https://instagram.com/azimbo_ev">Instagram</a>
-=======
-<a href="https://azimboev.uz">Website</a> |  <a href="https://t.me/terowoc">Telegram</a> | <a href="https://instagram.com/azimbo_ev">Instagram</a>
