@@ -9,8 +9,8 @@
 
 **📫 How to reach out to me:**
 
-- Email: terowoc@mail.ru
-- Telegram: @terowoc
+- Email: [terowoc@mail.ru](mailto:terowoc@mail.ru)
+- Telegram: [@terowoc](https://t.me/terowoc)
 
 **☕️ Buy me a coffee:**
 
