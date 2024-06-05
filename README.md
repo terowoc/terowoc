@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- My name is Abdullokh Azimboev, I’m _Fullstack Web Developer_ from Uzbakistan, with 4+ years of experience.
+- My name is Abdullokh Azimboev, I’m _Fullstack Web Developer_ from Uzbekistan, with 4+ years of experience.
 
 ## 📊 Wakatime Stats:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=terowoc&theme=github_dark&layout=compact)](https://wakatime.com/@terowoc)
